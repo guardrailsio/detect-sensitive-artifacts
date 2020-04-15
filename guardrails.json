@@ -1,0 +1,11 @@
+{
+  "name": "custom-engine-name",
+  "private": true,
+  "allowFor": {
+    "providers": {
+      "github": ["orgname-A", "orgname-B"],
+      "gitlab": ["orgname-A", "orgname-B"]
+    }
+  },
+  "runForLanguages": ["general", "java"]
+}

@@ -1,0 +1,10 @@
+{
+  "customEngineRuleID1": {
+    "grId": "GR000X",
+    "enabled": true
+  },
+  "customEngineRuleID2": {
+    "grId": "GR000Y",
+    "enabled": false
+  }
+}

@@ -8,7 +8,6 @@ The following code snipped contains an example of a successful engine run
 
 ```json
 {
-{
   "engine": {
     "name": "detect-sensitive-artifacts",
     "version": "1.0.0"

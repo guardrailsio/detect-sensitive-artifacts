@@ -1,8 +1,7 @@
 test-src
 tools
-guardrails.json
-mappings.json
 LICENSE
 README.md
 Dockerfile
 .dockerignore
+node_modules

@@ -1,11 +1,12 @@
 {
-  "name": "custom-engine-name",
+  "name": "detect-sensitive-artifacts",
+  "version": "1.0.0",
   "private": true,
   "allowFor": {
     "providers": {
-      "github": ["orgname-A", "orgname-B"],
-      "gitlab": ["orgname-A", "orgname-B"]
+      "github": ["guardrailsio", "streichsbaer"],
+      "gitlab": []
     }
   },
-  "runForLanguages": ["general", "java"]
+  "runForLanguages": ["general"]
 }

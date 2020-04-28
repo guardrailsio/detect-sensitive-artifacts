@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -f Dockerfile -t custom-engine-name:local .
+docker build -f Dockerfile -t detect-sensitive-artifacts:local .

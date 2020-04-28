@@ -1,0 +1,27 @@
+{
+  "name": "detect-sensitive-artifacts",
+  "version": "1.0.0",
+  "description": "Detects sensitive artifacts such as password manager files, IDE files, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streichsbaer/detect-sensitive-artifacts.git"
+  },
+  "keywords": [
+    "guardrails",
+    "custom",
+    "engine"
+  ],
+  "author": "Stefan Streichsbier",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/streichsbaer/detect-sensitive-artifacts/issues"
+  },
+  "homepage": "https://github.com/streichsbaer/detect-sensitive-artifacts#readme",
+  "dependencies": {
+    "tiny-glob": "^0.2.6"
+  }
+}

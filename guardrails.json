@@ -8,5 +8,15 @@
       "gitlab": []
     }
   },
-  "runForLanguages": ["general"]
+  "runForLanguage": "general",
+  "rules": {
+    "sensitive": {
+      "grId": "GR0004",
+      "enabled": true
+    },
+    "secrets": {
+      "grId": "GR0004",
+      "enabled": true
+    }
+  }
 }

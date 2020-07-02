@@ -12,11 +12,11 @@
   "rules": {
     "sensitive": {
       "grId": "GR0004",
-      "enabled": true
+      "enable": true
     },
     "secrets": {
       "grId": "GR0004",
-      "enabled": true
+      "enable": true
     }
   }
 }

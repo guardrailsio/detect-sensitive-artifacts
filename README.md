@@ -19,7 +19,7 @@ The following code snipped contains an example of a successful engine run
   "language": "general",
   "status": "success",
   "executionTime": 28,
-  "issues": 6,
+  "issues": 4,
   "output": [
     {
       "type": "secret",
